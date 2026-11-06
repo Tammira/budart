@@ -1,0 +1,60 @@
+/* START główne klasy */
+.body{
+  font-family: "Amarante", serif;
+  font-weight: 400;
+  font-style: normal;
+}
+a{
+	text-decoration:none !important;
+	color: #fff; ;
+}
+h5 {
+	font-size:32px;
+	padding:50px 0;
+	text-align:center;
+	font-weight: bold;
+}
+h4{
+	text-align: center;
+}
+figcaption{
+	margin-top: 20px;
+	text-align: justify;
+}
+h6{
+	font-weight: bold;
+}
+.text-center{
+	margin-top: 50px;
+	font-size: 17px;
+	font-weight: bold;
+}
+span{
+	text-align: justify;
+}
+.card-text{
+	text-align: center;
+}
+
+.table{
+	margin-top: 20px;
+}
+.opis{
+	margin-left: 10px;
+}
+.naroznik{
+	float: left;
+	margin-left: 30px;
+	margin-bottom: 20px;
+
+}
+.uwaga{
+	color:red;
+	font-weight: bold;
+}
+.contact-link{
+	color: black;
+	text-decoration:none !important;
+}
+
+/* End główne klasy */
